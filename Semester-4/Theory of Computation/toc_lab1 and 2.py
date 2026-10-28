@@ -122,7 +122,7 @@ transitions = {
 }
 start_state = 'q0'
 accept_states = ['q3', 'q6']
-print('Saurav Subedi')
+print('Garima Neupane')
 input_string = input("Enter a binary string (0s and 1s only): ")
 
 current_state = start_state
